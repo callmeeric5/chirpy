@@ -2,7 +2,7 @@
 
 Chirpy is a simple, Twitter-like backend service built with Go. It provides a RESTful API for user management, creating "chirps" (posts), and authentication using JWTs.
 
-## Features
+## Motivation
 
 *   **User Management**: Create, log in, and update users.
 *   **Chirp Management**: Create, view, and delete chirps.
@@ -11,7 +11,7 @@ Chirpy is a simple, Twitter-like backend service built with Go. It provides a RE
 *   **Webhook Integration**: An endpoint to handle user upgrades from an external service (Polka).
 *   **Admin Utilities**: Endpoints for checking service health and viewing metrics.
 
-## Getting Started
+## Quickstart
 
 Follow these instructions to get a local copy up and running for development and testing.
 
@@ -21,7 +21,7 @@ Follow these instructions to get a local copy up and running for development and
 *   [PostgreSQL](https://www.postgresql.org/download/)
 *   [Goose](https://github.com/pressly/goose) for database migrations.
 
-### Installation & Setup
+### Usage
 
 1.  **Clone the repository:**
     ```sh
@@ -208,3 +208,5 @@ The following is a detailed list of the available API endpoints.
     *   **Response (204 No Content)**
 
 ---
+
+## Contributing

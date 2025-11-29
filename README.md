@@ -11,7 +11,7 @@ Chirpy is a simple, Twitter-like backend service built with Go. It provides a RE
 *   **Webhook Integration**: An endpoint to handle user upgrades from an external service (Polka).
 *   **Admin Utilities**: Endpoints for checking service health and viewing metrics.
 
-## Quickstart
+## Quick Start
 
 Follow these instructions to get a local copy up and running for development and testing.
 
